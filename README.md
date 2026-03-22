@@ -10,7 +10,7 @@ This is a simple Water Management System written in Python. The program helps us
 ## Files in the Project
 
 **water.py** – Main Python program that calculates water usage.
-**water_data.txt** – Stores daily water usage records (optional feature).
+**water_data.txt** – Stores daily water usage records 
 
 
 
