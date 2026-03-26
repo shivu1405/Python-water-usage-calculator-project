@@ -187,8 +187,12 @@ Total Water Usage per Day: 113 litres
 Moderate usage. Try to reduce a little.
 ```
 ### Output:
-<img width="986" height="1032" alt="image" src="https://github.com/user-attachments/assets/dfcd9352-2bca-4db9-bfc5-e2c2e64a35a8" />
 
+<img width="865" height="733" alt="image" src="https://github.com/user-attachments/assets/34bb3750-52c7-407c-8e89-0f6750fbb43b" />
+
+<img width="1372" height="856" alt="image" src="https://github.com/user-attachments/assets/08a50392-beab-4e96-962b-16d9e189e4c7" />
+
+<img width="1390" height="937" alt="image" src="https://github.com/user-attachments/assets/ff0edfd1-5b17-48aa-84cd-c3a6655b3b65" />
 
 ## Author
 
