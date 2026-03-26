@@ -1,0 +1,8 @@
+Total Usage: 30 litres - Low usage - Good job!
+Total Usage: 28 litres - Low usage - Good job!
+Total Usage: 35 litres - Low usage - Good job!
+Total Usage: 34 litres - Low usage - Good job!
+2026-03-26,25
+2026-03-26,103
+2026-03-26,40
+2026-03-26,32
